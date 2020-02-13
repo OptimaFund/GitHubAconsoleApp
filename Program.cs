@@ -11,6 +11,7 @@ namespace GitHubAconsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Optima");
+            Console.WriteLine("Hello Steven");
             Console.ReadLine();
         }
     }
